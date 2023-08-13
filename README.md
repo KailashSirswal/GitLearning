@@ -1,2 +1,2 @@
 # GitLearning
-This is for learni
+This is for learning and earning purpose
